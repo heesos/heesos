@@ -1,9 +1,6 @@
 <h2 align="center">Hi 👋, I'm Miłosz</h2>
 <h3 align="center">Last term electronic student at Wroclaw University of Science and Technology</h3>
 
-- 🤝 I'm looking for an internship opportunity
-- ⚡ Fun fact **I love climbing**
-
 
 <p align="left">
 </p>
